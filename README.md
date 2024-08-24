@@ -6,7 +6,11 @@
 <h3 align="center">🚀 TECH STACK</h3>
 
   <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-<div style="display: flex; align-items: flex-start; "><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="49" height="49" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="49" height="49" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="49" height="49" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="49" height="49" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="49" height="49" /></div>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="49" height="49" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="49" height="49" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="49" height="49" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="49" height="49" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="49" height="49" />
   </div>
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
