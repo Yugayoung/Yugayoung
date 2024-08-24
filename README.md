@@ -3,15 +3,17 @@
 
   ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&section=header?height=1200&text=매일%20성장하는%20즐거움을%20찾는%20개발자%20유가영입니다.&fontSize=30)
 
+<br />
 <h3 align="center">🚀 TECH STACK</h3>
 
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="49" height="49" />
+<br />
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="49" height="49" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="49" height="49" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="49" height="49" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="49" height="49" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="49" height="49" />
-  </div>
+</div>
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,7 +24,9 @@
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-##🤙🏻Flllow Me
+<br />
+<h3 align="center">🤙🏻 Flllow Me</h3>
+
 <a href="https://velog.io/@ga_dongiii/posts"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ga_dongiii/posts"/>
 <a href="mailto:lum.gayoung@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=lum.gayoung@gmail.com"/>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ga_dongiii)](https://velog.io/@ga_dongiii)
