@@ -27,9 +27,12 @@
 <br />
 <h3 align="center">🤙🏻 Flllow Me</h3>
 
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
 <a href="https://velog.io/@ga_dongiii/posts"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ga_dongiii/posts"/>
 <a href="mailto:lum.gayoung@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=lum.gayoung@gmail.com"/>
+  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ga_dongiii)](https://velog.io/@ga_dongiii)
 
+</div
 
 </div>
