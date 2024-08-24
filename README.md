@@ -39,8 +39,9 @@
 <a href="mailto:lum.gayoung@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=lum.gayoung@gmail.com"/>
 </a>
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ga_dongiii)](https://velog.io/@ga_dongiii)
 
-</div
+</div>
 
 </div>
