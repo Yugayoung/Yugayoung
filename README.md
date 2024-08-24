@@ -19,6 +19,9 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+<br />
+
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -28,7 +31,8 @@
 <h3 align="center">🤙🏻 Flllow Me</h3>
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-<a href="https://velog.io/@ga_dongiii/posts"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ga_dongiii/posts"/>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+<a href="https://velog.io/@ga_dongiii/posts"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ga_dongiii/posts"/>&nbsp
+  
 <a href="mailto:lum.gayoung@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=lum.gayoung@gmail.com"/>
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ga_dongiii)](https://velog.io/@ga_dongiii)
