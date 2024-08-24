@@ -1,3 +1,6 @@
+<div align="center">
+  
+
   ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&section=header?height=1200&text=매일%20성장하는%20즐거움을%20찾는%20개발자%20유가영입니다.&fontSize=30)
 <h3 align="center">Tech Stack</h3>
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -17,3 +20,6 @@
 <a href="https://velog.io/@ga_dongiii/posts"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ga_dongiii/posts"/>
 <a href="mailto:lum.gayoung@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=lum.gayoung@gmail.com"/>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ga_dongiii)](https://velog.io/@ga_dongiii)
+
+
+</div>
