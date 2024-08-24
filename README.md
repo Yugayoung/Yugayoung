@@ -13,10 +13,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="49" height="49" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="49" height="49" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="49" height="49" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="49" height="49" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="49" height="49" /></div>
 
-/*##github status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yugayoung)](https://github.com/anuraghazra/github-readme-stats)*/
-
 ##🤙🏻Flllow Me
 <a href="https://velog.io/@ga_dongiii/posts"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ga_dongiii/posts"/>
 <a href="mailto:lum.gayoung@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=lum.gayoung@gmail.com"/>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=Yugayoung)](https://velog.io/@ga_dongiii/)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=Yugayoung)](https://velog.io/@ga_dongiii)
